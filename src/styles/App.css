@@ -26,4 +26,5 @@ section.buttons {
 
 section.lap-section {
     text-align: center;
+    display:none;
 }
